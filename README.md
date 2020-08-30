@@ -7,7 +7,7 @@ Redevelop Model Bricks code base architecture @ <a href="https://github.com/nrnb
 
 <p align="center">
 	<a href="#project-overview">Project Overview</a> | 
-	<a href="#objectives">Objectives</a> | 
+	<a href="#main-repository-url">Repository Link</a> | 
 	<a href="#updates">Updates</a> | 
 	<a href="#to-do">To Do</a> |
 	<a href="#project-screenshots ">Project Screenshots</a> |
