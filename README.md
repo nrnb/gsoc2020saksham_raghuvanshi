@@ -146,13 +146,26 @@ patterns and help many in Computational and Network Biology.
 
 ![](assets/mb1.png)
 <br>
+<br>
+<br>
+<br>
 ![](assets/mb2.png)
+<br>
+<br>
+<br>
 <br>
 ![](assets/mb3.png)
 <br>
+<br>
+<br>
+<br>
 ![](assets/mb4.png)
 <br>
+<br>
+<br>
+<br>
 ![](assets/mb5.png)
+<br>
 <br>
 
 ## Footnotes
