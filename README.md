@@ -14,9 +14,6 @@ Redevelop Model Bricks code base architecture @ <a href="https://github.com/nrnb
 	<a href="#links">Links</a>
 </p>
 
-<!-- <p align="center">
-	Check out my <a href="https://medium.com/stray-stream/">blog</a> or follow me on <a href="https://twitter.com/sjha2048">Twitter</a> for more updates.
-</p> -->
 <br>
 
 ## Project Overview
@@ -50,7 +47,7 @@ cellular functions whose predictions can be directly compared to experimental
 results, therefore, developed Modelbricks will encourage the use of recurring
 patterns and help many in Computational and Network Biology.
 
-**Mentors**: Ann Cowan, [Michael Blinov](https://github.com/vcellmike), [Frank Morgan](https://github.com/pepe454) and Dan Vasilescu
+**Mentors**: [Ann Cowan](https://github.com/ACowan0105), [Michael Blinov](https://github.com/vcellmike), [Frank Morgan](https://github.com/pepe454) and Dan Vasilescu
 
 ## Objectives
 
@@ -171,5 +168,5 @@ patterns and help many in Computational and Network Biology.
 ## Footnotes
 
 - We met twice every week over Zoom call on every Tuesday and Friday at 10:30am (EST)
-- Great exprience with the amazing mentors - Ann Cowan and Michael Blinov. You guys are the best mentors that I could ever asked for. Thank for all the guidance and support.
+- Great exprience with the amazing mentors - Ann Cowan and Michael Blinov. You guys are the best mentors that I could ever asked for. Thank you for all the guidance and support.
 - Project was constantly supervised by mentors and their feedbacks where Incorporated on time.
