@@ -110,7 +110,7 @@ patterns and help many in Computational and Network Biology.
 |           Tasks           |      Planned      |     Completed      |
 | :-----------------------: | :---------------: | :----------------: |
 | New Codebase Architecture |        Yes        | :heavy_check_mark: |
-|    Convert XMl to JSON    |        No         | :heavy_check_mark: |
+|    Convert XML to JSON    |        No         | :heavy_check_mark: |
 |    BioModel Dashboard     |        Yes        | :heavy_check_mark: |
 |  BioModel Printable Page  |        No         | :heavy_check_mark: |
 |  Integrate Google Search  |        Yes        | :heavy_check_mark: |
@@ -145,10 +145,15 @@ patterns and help many in Computational and Network Biology.
 [Visit Website](https://modelbricks.herokuapp.com/curatedList)
 
 ![](assets/mb1.png)
+<br>
 ![](assets/mb2.png)
+<br>
 ![](assets/mb3.png)
+<br>
 ![](assets/mb4.png)
+<br>
 ![](assets/mb5.png)
+<br>
 
 ## Footnotes
 
